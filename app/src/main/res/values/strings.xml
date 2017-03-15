@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="sort_most_popular">Sort by most popular</string>
+    <string name="sort_top_rated">Sort by top rated</string>
+    <string name="movieDetailTitle">MovieDetail</string>
+    <string name="no_internet_conn">Ups, you\'re not connected to the internet!</string>
+    <string name="extra_movies">movies</string>
+    <string name="extra_sort_type">sortType</string>
+    <string name="extra_movie">movie</string>
+</resources>
